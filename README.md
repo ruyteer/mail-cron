@@ -4,6 +4,10 @@ Esta aplicação consiste no envio de emails agendados, onde o usuário pode
 definir a data e hora que ele deseja que o job seja executado, além de definir
 quem irá receber e o conteúdo da mensagem (texto ou html).
 
+Obs: Neste projeto, utilizei princípios de arquitetura como SOLID e clean architecture,
+fazendo com que cada camada seja independente e facilite a manutenção do código.
+
+
 <h2>Como utilizar?</h2>
 <p>Para fazer o uso da api, você deve fazer algumas configurações iniciais:</p>
 
